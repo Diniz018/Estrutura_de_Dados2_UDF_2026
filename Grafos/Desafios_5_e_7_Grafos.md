@@ -2,7 +2,7 @@
 
 **Estrutura de Dados II | Unidade III — Grafos | Profa. Kadidja Valéria**
 
-**Nome:** Caio Guilherme Batista Rodrigues  **Turma:** D1  **Data:** 26/10/2026
+**Nome:** Ítalo George da Costa Diniz  **Turma:** D1  **Data:** 26/10/2026
 
 ---
 
